@@ -1,0 +1,5 @@
+set x goingbacktowords
+print x
+help
+set y 22
+print y

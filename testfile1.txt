@@ -1,0 +1,4 @@
+set x hello!thesearewords
+print x
+set x 155
+print x
